@@ -1,9 +1,9 @@
-### Hi there 👋
+
 <div align='center'>
 
-# Stefan 👨‍💻
+# Hey there 🙋‍♂️ I'm Stefan.
 
-## Full-Stack Developer | Adept Problem Solver
+## Full-Stack Web Developer
 
 <!--
 #### Currently looking for and open to new opportunities. If you would like to get in touch feel free to email me, [dmaisanooo@gmail.com](mailto:dmaisanooo@gmail.com)
